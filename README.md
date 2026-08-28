@@ -1,5 +1,9 @@
 # NYC Subway Operational Delay & Bottleneck Analysis Engine
 
+[![Live Demo](https://img.shields.io/badge/Live_Dashboard-Interactive_Plotly-blue?style=for-the-badge)](https://<myhuong02848-bit>.github.io/mta-delay-engine/)
+
+[🔗 Click here to view the live interactive reports](https://myhuong02848-bit.github.io/mta-delay-engine/)
+
 An end-to-end data engineering and analytical pipeline designed to ingest, clean, index, and analyze multi-year NYC MTA subway delay datasets (2020–2024). The project replaces manual spreadsheet workflows with an automated Python pipeline, relational SQLite indexing, SQL window functions, and interactive visualizations to uncover operational bottlenecks across shared transit corridors.
 
 ---
