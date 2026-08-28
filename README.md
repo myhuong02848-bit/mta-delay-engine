@@ -1,6 +1,6 @@
 # NYC Subway Operational Delay & Bottleneck Analysis Engine
 
-[![Live Demo](https://img.shields.io/badge/Live_Dashboard-Interactive_Plotly-blue?style=for-the-badge)](https://<myhuong02848-bit>.github.io/mta-delay-engine/)
+[![Live Demo](https://img.shields.io/badge/Live_Dashboard-Interactive_Plotly-blue?style=for-the-badge)](https://myhuong02848-bit.github.io/mta-delay-engine/)
 
 [🔗 Click here to view the live interactive reports](https://myhuong02848-bit.github.io/mta-delay-engine/)
 
